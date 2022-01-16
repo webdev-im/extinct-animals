@@ -1,0 +1,20 @@
+{
+  "header": {
+    "brandName": "Extinct animals",
+    "home": "Home",
+    "singleAnimal": "Single animal",
+    "postAnimal": "Post Animal"
+  },
+  "homeScreen": {
+    "homeTopTitle": "Extinct animals",
+    "homeTopText": "See the list of animals that are no longer present on our planet",
+    "homeBottomText": "Feel free to post your own animal."
+  },
+  "blog": {},
+  "gallery": {},
+  "contact": {},
+  "admin": {},
+  "footer": {
+    "blogName": "Extinct animals"
+  }
+}
